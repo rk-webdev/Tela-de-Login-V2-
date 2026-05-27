@@ -1,4 +1,4 @@
-### Tela de Login V2
+# Tela de Login V2
 
 ## Sobre
 Nesse projeto, eu fiz uma segunda versão para a tela de login, 
@@ -10,5 +10,5 @@ em JavaScript também.
 - HTML5
 - CSS3
 
-  # Dev
+  ### Dev
   Feito por: rk-webdev
